@@ -1,8 +1,8 @@
 # Thursday 19 November 2026 — The World in One Day
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/news-image-20261119)
-[![news-image-20261119](https://img.shields.io/badge/news--image--20261119-%24250%20prize-green)](https://make.fun/bounty/news-image-20261119)
-[![52 stories](https://img.shields.io/badge/stories-52-red)](https://make.fun/bounty/news-image-20261119)
+[![make.fun](https://make.fun/badge/news-image-20261119.svg)](https://make.fun/bounty/news-image-20261119)
+[![rank](https://make.fun/badge/news-image-20261119/XIIIIXV/news-image-20261119-v2/rank.svg)](https://make.fun/bounty/news-image-20261119)
+[![reward](https://make.fun/badge/news-image-20261119/XIIIIXV/news-image-20261119-v2/reward.svg)](https://make.fun/bounty/news-image-20261119)
 
 A 1024×1024 front page for the make.fun **news-image-20261119** bounty
 ($250, free entry, deadline 2026-11-21T00:00:00Z): all 52 news stories
